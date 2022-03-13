@@ -22,6 +22,12 @@ This repository contains the materials and links for the Advanced Programming (M
     - *tests*: This problem lacks test cases. Please contribute to this repository and add [JUNIT 5](https://github.com/junit-team/junit5) tests to [this folder](/RestaurantOrders/restaurant/test/)
 
 
+- **Computational Load Balancing**
+    - *[problem descrption](/BalanceComputationalLoad/description.md)*
+    - *[example solution](/BalanceComputationalLoad/src/main/)*
+    - *[tests](/BalanceComputationalLoad/src/test/)*
+
+    [BalanceComputationalLoad](/BalanceComputationalLoad/) folder is a gitlab repository containing correct solution, tests , gitlab-ci and gradle configs needed to test and run the code.
 
 
 [^1]: [quera.ir's](https://quera.ir) text testing format contains an `in` and an `out` folder, prompts `in/input1.txt` as `stdin` to the program. and expects the output written to `stdout` to be exactly like `out/output1.txt`. 
