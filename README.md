@@ -6,7 +6,7 @@ This repository contains the materials and links for the Advanced Programming (M
 - **PhoneBook**
     - *[problem descrption](/PhoneBook/description.md)*
     - *[example solution](/PhoneBook/solution/Main.java)*
-    - *[tests](/Phonebook/tests/)*: written in quera text testing format [^1]
+    - *[tests](/PhoneBook/tests/)*: written in quera text testing format [^1]
 
 - **Binary Search**
 
