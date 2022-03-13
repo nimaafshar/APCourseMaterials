@@ -4,7 +4,7 @@ This repository contains the materials and links for the Advanced Programming (M
 ## Assignments
 
 - **PhoneBook**
-    - *[problem descrption](../../tree/main/Phonebook/description.md)*
+    - *[problem descrption](nimaafshar/APCourseMaterials/tree/main/PhoneBook)*
     - *[example solution](../tree/main/PhoneBook/solution/Main.java)*
     - *[tests](../tree/main/Phonebook/tests/)*: written in quera text testing format [^1]
 
