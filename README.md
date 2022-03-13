@@ -7,14 +7,14 @@ This repository contains the materials and links for the Advanced Programming (M
 
     - *[problem descrption](./Phonebook/description.md)*
     - *[example solution](./PhoneBook/solution/Main.java)*
-    - *[tests](./Phonebook/tests/)*: written in quera text testing format<a name="queraTextTestingFormat">1</a>abcd
+    - *[tests](./Phonebook/tests/)*: written in quera text testing format <a name="queraTextTestingFormat">[1]</a>abcd
 
 
 - **Binary Search**
 
     - *[problem descrption](./BinarySearch/description.md)*
     - *[example solution](./BinarySearch/solution/Main.java)*
-    - *[tests](./BinarySearch/tests/)*: written in quera text testing format<a name="queraTextTestingFormat">[1]</a>
+    - *[tests](./BinarySearch/tests/)*: written in quera text testing format <a name="queraTextTestingFormat">[1]</a>
 
 
 - **Restaurant Orders**
