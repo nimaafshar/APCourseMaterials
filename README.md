@@ -1,21 +1,28 @@
 # APCourseMaterials
 This repository contains the materials and links for the Advanced Programming (M.Sc) course in java, given on Winter 2021 at Amirkabir University of Technology. I was in the teaching assistance team for this course
 
-- PhoneBook
+## Assignments
 
-    [problem descrption](./Phonebook/description.md)
+- **PhoneBook**
 
-    [example solution](./PhoneBook/solution/Main.java)
+    - *[problem descrption](./Phonebook/description.md)*
+    - *[example solution](./PhoneBook/solution/Main.java)*
+    - *[tests](./Phonebook/tests/)*: written in quera text testing format<a name="queraTextTestingFormat">1</a>
 
-    [tests](./Phonebook/tests/): written in quera text testing format<a name="queraTextTestingFormat">1</a>
+
+- **Binary Search**
+
+    - *[problem descrption](./BinarySearch/description.md)*
+    - *[example solution](./BinarySearch/solution/Main.java)*
+    - *[tests](./BinarySearch/tests/)*: written in quera text testing format<a name="queraTextTestingFormat">1</a>
 
 
-- Binary Search 
-    [problem descrption](./BinarySearch/description.md)
+- **Restaurant Orders**
 
-    [example solution](./BinarySearch/solution/Main.java)
+    - *[problem descrption](./RestaurantOrders/description.md)*
+    - *[example solution](./RestaurantOrders/restaurant/)*
+    - *tests*: This problem lacks test cases. Please contribute to this repository and add `JUNIT5` tests to [this folder](./ResturantOrders/restaurant/test/)
 
-    [tests](./BinarySearch/tests/): written in quera text testing format<a name="queraTextTestingFormat">1</a>
 
 
 
