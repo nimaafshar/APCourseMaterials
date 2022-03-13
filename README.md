@@ -1,35 +1,35 @@
 # APCourseMaterials
 This repository contains the materials and links for the Advanced Programming (M.Sc) course in java, given on Winter 2021 at Amirkabir University of Technology. I was in the teaching assistance team for this course
 
-## Assignments
+## Assignments:notebook_with_decorative_cover:
 
 - **PhoneBook:phone:** 
     - *[problem descrption](/PhoneBook/description.md)*
     - *[example solution](/PhoneBook/solution/Main.java)*
     - *[tests](/PhoneBook/tests/)*: written in quera text testing format [^1]
 
-- **Binary Search**
+- **Binary Search:mag:**
 
     - *[problem descrption](/BinarySearch/description.md)*
     - *[example solution](/BinarySearch/solution/Main.java)*
     - *[tests](/BinarySearch/tests/)*: written in quera text testing format [^1]
 
 
-- **Restaurant Orders**
+- **Restaurant Orders:pizza:**
 
     - *[problem descrption](/RestaurantOrders/description.md)*
     - *[example solution](/RestaurantOrders/restaurant/)*
     - *tests*: This problem lacks test cases. Please contribute to this repository and add [JUNIT 5](https://github.com/junit-team/junit5) tests to [this folder](/RestaurantOrders/restaurant/test/)
 
 
-- **Computational Load Balancing**
+- **Computational Load Balancing:computer:**
     - *[problem descrption](/BalanceComputationalLoad/description.md)*
     - *[example solution](/BalanceComputationalLoad/src/main/)*
     - *[tests](/BalanceComputationalLoad/src/test/)* using `JUNIT 5`
 
     [BalanceComputationalLoad](/BalanceComputationalLoad/) folder is a gitlab repository containing correct solution, tests , gitlab-ci and gradle configs needed to test and run the code.
 
-- **String Validator**
+- **String Validator:abcd::1234::symbols:**
     - *[problem descrption](/StringValidator/description.md)*
     - *[example solution](/StringValidator/src/main/)*
     - *[tests](/StringValidator/src/test/)* using `JUNIT5`
