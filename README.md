@@ -10,16 +10,16 @@ This repository contains the materials and links for the Advanced Programming (M
 
 - **Binary Search**
 
-    - *[problem descrption](./BinarySearch/description.md)*
-    - *[example solution](./BinarySearch/solution/Main.java)*
-    - *[tests](./BinarySearch/tests/)*: written in quera text testing format [^1]
+    - *[problem descrption](/BinarySearch/description.md)*
+    - *[example solution](/BinarySearch/solution/Main.java)*
+    - *[tests](/BinarySearch/tests/)*: written in quera text testing format [^1]
 
 
 - **Restaurant Orders**
 
-    - *[problem descrption](./RestaurantOrders/description.md)*
-    - *[example solution](./RestaurantOrders/restaurant/)*
-    - *tests*: This problem lacks test cases. Please contribute to this repository and add `JUNIT5` tests to [this folder](./ResturantOrders/restaurant/test/)
+    - *[problem descrption](/RestaurantOrders/description.md)*
+    - *[example solution](/RestaurantOrders/restaurant/)*
+    - *tests*: This problem lacks test cases. Please contribute to this repository and add `JUNIT5` tests to [this folder](/RestaurantOrders/restaurant/test/)
 
 
 
