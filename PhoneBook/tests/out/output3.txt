@@ -1,0 +1,42 @@
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 1
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 2
+enter your command: ####
+id: 1
+first name: James
+last name: Holden
+phone number: +989123456789
+email: someone@somemail.com
+birthdate: 2010/22/9
+####
+id: 2
+first name: Dolores
+last name: Abernathy
+phone number: +989123456780
+email: delo@instagram.com
+birthdate: 2009/25/8
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 3
+enter your command: ####
+id: 1
+first name: James
+last name: Holden
+phone number: +989123456789
+email: someone@somemail.com
+birthdate: 2010/22/9
+####
+id: 2
+first name: Dolores
+last name: Abernathy
+phone number: +989123456780
+email: delo@instagram.com
+birthdate: 2009/25/8
+####
+id: 3
+first name: Dr. Robert
+last name: Ford
+phone number: +989111111111
+email: robert@ford.org
+birthdate: 1990/25/8
+enter your command: 

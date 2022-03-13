@@ -1,0 +1,14 @@
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 1
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 2
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 3
+enter your command: email: ####
+id: 1
+first name: James
+last name: Holden
+phone number: +989123456789
+email: someone@somemail.com
+birthdate: 2010/22/9
+enter your command: 

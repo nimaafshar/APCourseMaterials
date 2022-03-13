@@ -1,0 +1,3 @@
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 1
+enter your command: 

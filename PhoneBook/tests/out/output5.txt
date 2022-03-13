@@ -1,0 +1,14 @@
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 1
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 2
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 3
+enter your command: phone number: ####
+id: 2
+first name: Dolores
+last name: Abernathy
+phone number: +989123456780
+email: delo@instagram.com
+birthdate: 2009/25/8
+enter your command: 

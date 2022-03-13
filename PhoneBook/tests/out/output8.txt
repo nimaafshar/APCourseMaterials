@@ -1,0 +1,14 @@
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 1
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 2
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 3
+enter your command: email: ####
+id: 3
+first name: Dr. Robert
+last name: Ford
+phone number: +989111111111
+email: robert@ford.org
+birthdate: 1990/25/8
+enter your command: 

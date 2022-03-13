@@ -1,0 +1,9 @@
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 1
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 2
+enter your command:     first name:     last name:     phone number:     email:     birthdate: ####
+id: 3
+enter your command: phone number: ####
+no contacts found
+enter your command: 

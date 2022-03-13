@@ -1,0 +1,22 @@
+add
+James
+Holden
++989123456789
+someone@somemail.com
+2010/22/9
+add
+Dolores
+Abernathy
++989123456780
+delo@instagram.com
+2009/25/8
+add
+Dr. Robert
+Ford
++989111111111
+robert@ford.org
+1990/25/8
+search-by-phone
++989111122111
+exit
+
